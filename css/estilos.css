@@ -6,5 +6,16 @@
 body{
 	background-color: #a33a3a;
 	font-family: Arial;
-	font-size:2em ;
+	font-size:1.02em ;
+}
+.uno{
+	color:#fff;
+
+}
+.dos{
+	color: #a2a2a2;
+
+}
+.tres{
+	color:#e6e6e6;
 }
