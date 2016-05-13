@@ -1,0 +1,23 @@
+commit 165939a9659f8c4e219f618f49ed03b3f018069e
+Author: OSWALDO <oswaldoadidas@hotmail.com>
+Date:   Thu May 12 11:48:45 2016 -0500
+
+    Javascript solucinado
+
+commit a59a55beba44e5e1f213813beb063af5c1053091
+Author: OSWALDO <oswaldoadidas@hotmail.com>
+Date:   Thu May 12 11:47:11 2016 -0500
+
+    Nuevos estilos,checando javascript
+
+commit e42c5a890a6e4498e5513b23c37fcca4748ead25
+Author: OSWALDO <oswaldoadidas@hotmail.com>
+Date:   Thu May 12 11:38:58 2016 -0500
+
+    Dos parrafos agregados
+
+commit e022d58824ca8cc2b67d96bdbaf27095186717ca
+Author: OSWALDO <oswaldoadidas@hotmail.com>
+Date:   Thu May 12 11:35:26 2016 -0500
+
+    Iniciando proyecto
